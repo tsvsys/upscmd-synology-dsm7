@@ -1,7 +1,7 @@
 #!/bin/bash -e
 # original script https://moshib.in/2019/02/08/disable-ups-beeper-synology.html
 #
-# script modified to work with synology DNS v7
+# script modified to work with synology DSM v7
 # tested on DSM 7.0.1
 # 
 if [ "$1" == "curtime" ]
